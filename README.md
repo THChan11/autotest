@@ -1,8 +1,6 @@
 # autotest
 automatic inferential statistics test seleciton, execution and visualization.
 
-by Tsz-Hong Chan
-
 In inferential statistiscs, parametric tests are often preferred over non-parametric tests for being more powerful. 
 
 The current version contains 5 functions that automates the selection between T-test, ANOVA, Simple Linear modelling,  Chi square test, Pearsons's correlation and their non-parametric counter parts, before returning the test results with graphical visualizaitons.
